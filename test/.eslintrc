@@ -1,0 +1,12 @@
+{
+	"env": {
+		"mocha": true
+	},
+	"globals": {
+		"requireLib": false
+	},
+	"rules": {
+		"padded-blocks": 0,
+		"no-unused-expressions": 0
+	}
+}
