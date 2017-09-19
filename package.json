@@ -1,7 +1,7 @@
 {
   "author": "Paweł Mendelski <pawel.mendelski@coditorium.com>",
   "name": "gulp-html-lint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gulp plugin for htmllint",
   "main": "index.js",
   "license": "MIT",
